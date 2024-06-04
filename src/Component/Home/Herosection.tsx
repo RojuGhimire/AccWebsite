@@ -9,9 +9,9 @@ export default function Hero() {
               <p className="text-lg text-yellow-500 mb-8">Ready to streamline your bookkeeping? Book a consultation today!</p>
               <button className="bg-teal-500 text-white py-2 px-6 rounded-lg">Book Now</button>
             </div>
-            <div className="lg:w-1/2 mt-8 lg:mt-0">
+            {/* <div className="lg:w-1/2 mt-8 lg:mt-0">
               <img src="" alt="Remote Bookkeeping Illustration" className="w-full h-auto">
-            </div>
+            </div> */}
           </div>
         </div>
     )
